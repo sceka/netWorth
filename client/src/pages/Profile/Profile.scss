@@ -1,0 +1,26 @@
+.profile-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-info {
+    display: flex;
+    flex-direction: column;
+    padding: 40px 25px;
+}
+
+.profile-name {
+    font-size: 35px;
+}
+.profile-age {
+    font-size: 25px;
+}
+
+.profile-info-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-country {
+    font-size: 25px;
+}
